@@ -1,0 +1,30 @@
+.navbar-nav li a{
+    font-weight: 600;
+}
+navbar-nav li{
+    margin: 5px;
+    padding: 10px !important;
+}
+#navigation{
+    background-color: #FFF9F4;
+}
+.title-text{
+    color: #FA804C;
+}
+.title-text1{
+    color: #fff;
+    font-size: 30px;
+}
+*{
+    font-family: sans-serif;
+}
+.bg-color{
+    background-color: #F1F1F1;
+}
+.phone{
+    height: 400px;
+  
+}
+#image-bg{
+    background-image: url("bg.jpg");
+}
